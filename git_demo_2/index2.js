@@ -4,3 +4,6 @@ console.log("cmmit1");
 console.log("commit2");
 console.log("commit3");
 console.log("commit4");
+function add(a, b) {
+    return a + b;
+}
